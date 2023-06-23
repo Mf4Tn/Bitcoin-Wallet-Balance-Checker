@@ -11,7 +11,7 @@ or
 
  <code>python BTCBalanceChecker.py </code>
 
-Results will be save in 'wallet-balance.txt'
+Results will be save in <code>'wallet-balance.txt'</code>
 
 ![image](https://github.com/Mf4Tn/Bitcoin-Wallet-Balance-Checker/assets/75338199/dc93d130-f5ff-45a0-8ccc-024cb3f78dc2)
 
