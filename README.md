@@ -3,12 +3,13 @@ A Simple python script to check the balance of bitcoin wallets Made using python
 Put the target wallets into 'wallet.txt' and run the script
 
 How To Run: 
-
-<code> py BTCBalanceChecker.py </code>
-
+<code>
+ py BTCBalanceChecker.py
+ </code>
 or
-
-python BTCBalanceChecker.py
+<code>
+ python BTCBalanceChecker.py
+ </code>
 
 Results will be save in 'wallet-balance.txt'
 
