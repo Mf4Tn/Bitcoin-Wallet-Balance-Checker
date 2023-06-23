@@ -4,14 +4,12 @@ Put the target wallets into 'wallet.txt' and run the script
 
 How To Run: 
 
-<code>
- py BTCBalanceChecker.py
- </code>
+
+ <code>py BTCBalanceChecker.py</code>
+ 
 or
 
-<code>
- python BTCBalanceChecker.py
- </code>
+ <code>python BTCBalanceChecker.py </code>
 
 Results will be save in 'wallet-balance.txt'
 
